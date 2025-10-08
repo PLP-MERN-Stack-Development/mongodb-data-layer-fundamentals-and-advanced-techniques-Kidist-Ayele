@@ -105,7 +105,8 @@ db.books.updateOne({ title: "1984" }, { $set: { price: 13.99 } });
 
 ### MongoDB Compass Database View
 
-![MongoDB Compass Screenshot](mongodb-compass-screenshot.png)
+<img width="1332" height="705" alt="image" src="https://github.com/user-attachments/assets/3252867e-fb6d-47a3-bcae-49cfcc194f3b" />
+
 
 **Screenshot shows:**
 
@@ -127,14 +128,3 @@ npm install mongodb
 - Make sure MongoDB is running
 - Check connection string in scripts
 
-## ✨ What I Learned
-
-- MongoDB NoSQL database concepts
-- CRUD operations in MongoDB
-- Aggregation pipelines for data analysis
-- Indexing for performance optimization
-- MongoDB with Node.js integration
-
----
-
-**Status:** ✅ Complete
